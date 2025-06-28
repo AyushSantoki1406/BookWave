@@ -39,6 +39,6 @@
 
 | Book Details | Categories | Bookmarks | Profile |
 |------------|-----------|---------|----------------|
-| ![Book Details](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/book-data.jpg) || ![Category](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/category.jpg) | ![Bookmarks](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/bookmark.jpg) | ![Profile](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/user-profile.jpg) | 
+| ![Book Details](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/book-data.jpg) | ![Category](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/category.jpg) | ![Bookmarks](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/bookmark.jpg) | ![Profile](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/user-profile.jpg) | 
 
 ---
