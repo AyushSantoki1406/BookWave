@@ -33,12 +33,12 @@
 
 ## 📸 App Screenshots
 
-| SignUp Page | Login Page | Home Page | Book Details |
+| SignUp Page | Login Page | Home Page(Dark) | Home Page(Light) |
 |-------------|------------|-----------|---------------|
-| ![SignUp](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/signup.jpg) | ![Login](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/login.jpg) | ![Home](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/home-page-dark.jpg) | ![Book Details](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/book-data.jpg) |
+| ![SignUp](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/signup.jpg) | ![Login](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/login.jpg) | ![Home](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/home-page-dark.jpg) | ![Home](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/home-page-light.jpg) |
 
-| Categories | Bookmarks | Profile | Privacy Policy |
+| Book Details | Categories | Bookmarks | Profile |
 |------------|-----------|---------|----------------|
-| ![Category](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/category.jpg) | ![Bookmarks](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/bookmark.jpg) | ![Profile](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/user-profile.jpg) | ![Privacy Policy](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/privacy-policy.jpg) |
+| ![Book Details](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/book-data.jpg) || ![Category](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/category.jpg) | ![Bookmarks](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/bookmark.jpg) | ![Profile](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/user-profile.jpg) | 
 
 ---
