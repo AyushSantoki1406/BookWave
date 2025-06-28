@@ -39,10 +39,6 @@
 
 | Categories | Bookmarks | Profile | Privacy Policy |
 |------------|-----------|---------|----------------|
-| ![Category](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/category.jpg) | ![Bookmarks](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/bookmark.jpg) | ![Profile](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/profile.jpg) | ![Privacy Policy](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/privacy-policy.jpg) |
-
-| Contact Us | About Us |
-|------------|----------|
-| ![Contact Us](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/contactus.jpg) | ![About Us](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/aboutus.jpg) |
+| ![Category](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/category.jpg) | ![Bookmarks](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/bookmark.jpg) | ![Profile](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/user-profile.jpg) | ![Privacy Policy](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/privacy-policy.jpg) |
 
 ---
