@@ -35,7 +35,7 @@
 
 | SignUp Page | Login Page | Home Page | Book Details Page |
 |-------------|------------|-----------|--------------------|
-| ![SignUp](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/signup.png) | ![Login](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/login.png) | ![Home](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/home.png) | ![Book Details](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/book_details.png) |
+| ![SignUp](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/signup.jpg) | ![Login](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/login.png) | ![Home](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/home.png) | ![Book Details](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/book_details.png) |
 
 | Category Page | BookMark Page | Profile Page | Privacy Policy Page |
 |---------------|---------------|--------------|----------------------|
