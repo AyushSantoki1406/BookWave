@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_horror" android:title="Horror" />
+    <item android:id="@+id/item_romance" android:title="Romance" />
+    <item android:id="@+id/item_adventure" android:title="Adventure" />
+    <item android:id="@+id/item_fantasy" android:title="Fantasy" />
+    <item android:id="@+id/item_scifi" android:title="Science Fiction" />
+    <item android:id="@+id/item_thriller" android:title="Thriller" />
+    <item android:id="@+id/item_biography" android:title="Biography" />
+    <item android:id="@+id/item_history" android:title="History" />
+    <item android:id="@+id/item_nonfiction" android:title="Non-Fiction" />
+    <item android:id="@+id/item_poetry" android:title="Poetry" />
+</menu>

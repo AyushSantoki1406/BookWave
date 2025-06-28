@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_english" android:title="English" />
+    <item android:id="@+id/item_spanish" android:title="Spanish" />
+    <item android:id="@+id/item_french" android:title="French" />
+    <item android:id="@+id/item_german" android:title="German" />
+    <item android:id="@+id/item_chinese" android:title="Chinese" />
+    <item android:id="@+id/item_japanese" android:title="Japanese" />
+    <item android:id="@+id/item_russian" android:title="Russian" />
+    <item android:id="@+id/item_italian" android:title="Italian" />
+    <item android:id="@+id/item_portuguese" android:title="Portuguese" />
+    <item android:id="@+id/item_hindi" android:title="Hindi" />
+</menu>

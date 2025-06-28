@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/backgroundColor"
+    tools:context=".Privacy">
+
+    <ScrollView
+        android:id="@+id/privacyScrollView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:background="@color/backgroundColor"
+        android:padding="8dp"
+        android:scrollbars="none"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.airbnb.lottie.LottieAnimationView
+                android:id="@+id/animationView"
+                android:layout_width="wrap_content"
+                android:layout_height="250dp"
+                app:lottie_rawRes="@raw/privacy"
+                app:lottie_autoPlay="true"
+                app:lottie_loop="true"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"/>
+
+            <TextView
+                android:id="@+id/privacyTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Privacy Policy"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/primaryColor"
+                android:layout_marginTop="16dp"
+                app:layout_constraintTop_toBottomOf="@id/animationView"
+                app:layout_constraintStart_toStartOf="parent" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Effective Date: 31/08/2024"
+                android:textSize="18sp"
+                android:textColor="@color/secondaryColor"
+                android:paddingBottom="12dp"
+                android:textStyle="italic"/>
+
+            <!-- Introduction -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Thank you for choosing to be part of our community at bookwave . We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at email."
+            android:textSize="16sp"
+            android:textColor="@color/primaryTextColor"
+            android:lineSpacingExtra="4dp"
+            android:paddingBottom="12dp"/>
+
+            <!-- Use of Services -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="When you use our mobile application, as the case may be and more generally, use any of our services , we appreciate that you are trusting us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it, and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Services immediately."
+            android:textSize="16sp"
+            android:textColor="@color/primaryTextColor"
+            android:lineSpacingExtra="4dp"
+            android:paddingBottom="12dp"/>
+
+            <!-- Information We Collect -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Information We Collect\nWe collect personal information that you voluntarily provide to us when you register on the App, express an interest in obtaining information about us or our products and Services, when you participate in activities on the App, or otherwise when you contact us."
+                android:textSize="16sp"
+                android:textColor="@color/primaryTextColor"
+                android:lineSpacingExtra="4dp"
+                android:paddingBottom="12dp"/>
+
+            <!-- How We Use Your Information -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="How We Use Your Information\nWe use personal information collected via our App for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests, in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below."
+                android:textSize="16sp"
+                android:textColor="@color/primaryTextColor"
+                android:lineSpacingExtra="4dp"
+                android:paddingBottom="12dp"/>
+
+            <!-- Sharing Your Information -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sharing Your Information\nWe may process or share your data that we hold based on the following legal basis:\n• Consent: We may process your data if you have given us specific consent to use your personal information for a specific purpose.\n• Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.\n• Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract."
+                android:textSize="16sp"
+                android:textColor="@color/primaryTextColor"
+                android:lineSpacingExtra="4dp"
+                android:paddingBottom="12dp"/>
+
+            <!-- Your Privacy Rights -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Your Privacy Rights\nIn some regions, such as the European Economic Area (EEA), you have rights that allow you greater access to and control over your personal information. These rights may include the right to:\n• Request access and obtain a copy of your personal information.\n• Request rectification or erasure.\n• Restrict the processing of your personal information.\n• Data portability.\n• If you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority.\nWe will consider and act upon any request in accordance with applicable data protection laws."
+                android:textSize="16sp"
+                android:textColor="@color/primaryTextColor"
+                android:lineSpacingExtra="4dp"
+                android:paddingBottom="12dp"/>
+
+            <!-- Contact Us -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Contact Us\nIf you have questions or comments about this notice, you may contact us by email at ayushsantoki1462004@gmail.com."
+                android:textSize="16sp"
+                android:textColor="@color/primaryTextColor"
+                android:lineSpacingExtra="4dp"
+                android:paddingBottom="12dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

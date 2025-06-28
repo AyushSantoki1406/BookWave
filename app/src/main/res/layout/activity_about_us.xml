@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor"
+    tools:context=".AboutUs"
+    android:id="@+id/main">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/animationView"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            app:lottie_rawRes="@raw/about"
+            app:lottie_autoPlay="true"
+            app:lottie_loop="true"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"/>
+
+        <TextView
+            android:id="@+id/aboutUsTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="About Us"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="@color/primaryColor"
+            android:layout_marginTop="16dp"
+            app:layout_constraintTop_toBottomOf="@id/animationView"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <LinearLayout
+            android:id="@+id/introSection"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="16dp"
+            app:layout_constraintTop_toBottomOf="@+id/aboutUsTitle"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent">
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:src="@drawable/a1"
+                android:contentDescription="Introduction Image"
+                android:layout_marginEnd="16dp"
+                android:scaleType="centerCrop"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Welcome to bookwave! We are dedicated to providing you with an amazing reading experience. Our mission is to make literature accessible to everyone and create a community of book lovers."
+                android:textSize="16sp"
+                android:textColor="@color/primaryTextColor"
+                android:lineSpacingExtra="4dp"/>
+        </LinearLayout>
+
+        <!-- Our Vision Section -->
+        <LinearLayout
+            android:id="@+id/visionSection"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="24dp"
+            app:layout_constraintTop_toBottomOf="@id/introSection"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent">
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:src="@drawable/a2"
+                android:contentDescription="Vision Image"
+                android:layout_marginEnd="16dp"
+                android:scaleType="centerCrop"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Our vision is to create a world where reading is a universal pastime. We strive to bring the best of literature to your fingertips and foster a love for reading in every individual."
+                android:textSize="16sp"
+                android:textColor="@color/primaryTextColor"
+                android:lineSpacingExtra="4dp"/>
+        </LinearLayout>
+
+        <!-- Our Team Section -->
+        <GridLayout
+            android:id="@+id/teamSection"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="3"
+            android:rowCount="3"
+            android:layout_marginTop="24dp"
+            app:layout_constraintTop_toBottomOf="@id/visionSection"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:padding="8dp">
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/a3"
+                android:contentDescription="Team Member 1"
+                android:layout_margin="8dp"
+                android:scaleType="centerCrop"
+                android:layout_gravity="center"/>
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/a5"
+                android:contentDescription="Team Member 2"
+                android:layout_margin="8dp"
+                android:scaleType="centerCrop"
+                android:layout_gravity="center"/>
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/a6"
+                android:contentDescription="Team Member 3"
+                android:layout_margin="8dp"
+                android:scaleType="centerCrop"
+                android:layout_gravity="center"/>
+
+            <!-- Add more team member images as needed -->
+        </GridLayout>
+
+        <!-- Contact Us Section -->
+        <TextView
+            android:id="@+id/contactUs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Contact Us\nIf you have any questions or feedback, feel free to reach out to us at ayushsantoki. We would love to hear from you!"
+            android:textSize="16sp"
+            android:textColor="@color/primaryTextColor"
+            android:lineSpacingExtra="4dp"
+            android:layout_marginTop="24dp"
+            app:layout_constraintTop_toBottomOf="@id/teamSection"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.core.widget.NestedScrollView>

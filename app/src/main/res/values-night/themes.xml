@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BookWave" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="border">@color/white</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:colorBackground">#1a1a1a</item>
+        <item name="or">#1a1a1a</item>
+    </style>
+
+    <color name="backgroundColor">#121212</color>
+    <color name="primaryColor">#FFFFFF</color>
+    <color name="secondaryColor">#B0B0B0</color>
+    <color name="primaryTextColor">#E0E0E0</color>
+</resources>
