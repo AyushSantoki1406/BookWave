@@ -1,49 +1,48 @@
 # 📚 BookWave
 
-**BookWave** is a modern Android reading app designed for book lovers. It offers an elegant UI, seamless reading experience, and useful features like bookmarking, dark mode, and online reading. Ideal for users who want to explore and read books anytime, anywhere.
+**BookWave** is a feature-rich Android reading application designed for book enthusiasts. With a clean, responsive UI and seamless reading experience, it enables users to browse, read, and manage books effortlessly. Whether you're casually exploring or diving deep into your favorite genres, BookWave provides a modern and intuitive platform to enjoy reading on the go.
 
 ---
 
-## 🚀 Features
+## 🚀 Key Features
 
-- 🔐 User SignUp / Login
-- 📚 Browse books by category
-- 📖 Read books online using Google Docs Viewer
-- ❤️ Save favorite books to bookmarks
-- 🔄 Sync data with Firebase Firestore
-- 👤 Profile management
-- 🌗 Supports Dark & Light Mode
-- 📜 Privacy Policy & Contact Us pages
-- 🎨 Smooth UI with Lottie animations and modern design
+- 🔐 **User Authentication** – Secure Sign Up and Login functionality
+- 📚 **Browse by Categories** – Easily discover books by genre or theme
+- 📖 **Online Book Reader** – Read books directly using an integrated viewer
+- ❤️ **Bookmark Favorites** – Save and manage your favorite books
+- 🔄 **Cloud Sync** – Real-time data sync with Firebase Firestore
+- 👤 **Profile Management** – View and edit user details
+- 🌗 **Dark & Light Theme Support** – Automatically adapts to system mode
+- 🛡️ **Privacy & Contact Support** – Includes Privacy Policy and Contact Us pages
+- 🎨 **Modern Design** – Built with Material Design, animations via Lottie
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Language:** Kotlin
-- **UI:** XML, ConstraintLayout, Material Design
-- **Backend:** Firebase Firestore, Firebase Auth, Firebase Storage
-- **Libraries:**  
-  - Glide (for image loading)  
-  - Lottie (for animations)  
-  - RecyclerView  
-  - Google Docs Viewer (PDF viewing)
+- **Language:** Kotlin  
+- **UI:** XML, ConstraintLayout, Material Design Components  
+- **Backend:** Firebase Authentication, Firestore, and Firebase Storage  
+- **Libraries & Tools:**
+  - Glide – Efficient image loading
+  - Lottie – Smooth animations
+  - RecyclerView – Dynamic list rendering
+  - Google Docs Viewer – Online PDF viewing
 
 ---
 
-## 📸 Screenshots
+## 📸 App Screenshots
 
-| SignUp Page | Login Page | Home Page | Book Details Page |
-|-------------|------------|-----------|--------------------|
+| SignUp Page | Login Page | Home Page | Book Details |
+|-------------|------------|-----------|---------------|
 | ![SignUp](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/signup.jpg) | ![Login](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/login.jpg) | ![Home](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/home-page-dark.jpg) | ![Book Details](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/book-data.jpg) |
 
-| Category Page | BookMark Page | Profile Page | Privacy Policy Page |
-|---------------|---------------|--------------|----------------------|
-| ![Category](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/category.jpg) | ![BookMark](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/bookmark.jpg) | ![Profile](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/profile.jpg) | ![Privacy Policy](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/privacy-policy.jpg) |
+| Categories | Bookmarks | Profile | Privacy Policy |
+|------------|-----------|---------|----------------|
+| ![Category](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/category.jpg) | ![Bookmarks](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/bookmark.jpg) | ![Profile](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/profile.jpg) | ![Privacy Policy](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/privacy-policy.jpg) |
 
-| Contact Us Page | About Us Page |
-|------------------|---------------|
+| Contact Us | About Us |
+|------------|----------|
 | ![Contact Us](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/contactus.jpg) | ![About Us](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/aboutus.jpg) |
 
 ---
-
