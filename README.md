@@ -35,15 +35,15 @@
 
 | SignUp Page | Login Page | Home Page | Book Details Page |
 |-------------|------------|-----------|--------------------|
-| ![SignUp](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/signup.jpg) | ![Login](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/login.jpg) | ![Home](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/home.jpg) | ![Book Details](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/book_details.jpg) |
+| ![SignUp](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/signup.jpg) | ![Login](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/login.jpg) | ![Home](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/home-page-dark.jpg) | ![Book Details](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/book_details.jpg) |
 
 | Category Page | BookMark Page | Profile Page | Privacy Policy Page |
 |---------------|---------------|--------------|----------------------|
-| ![Category](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/category.jpg) | ![BookMark](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/bookmark.jpg) | ![Profile](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/profile.jpg) | ![Privacy Policy](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/privacy_policy.jpg) |
+| ![Category](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/category.jpg) | ![BookMark](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/bookmark.jpg) | ![Profile](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/profile.jpg) | ![Privacy Policy](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/privacy-policy.jpg) |
 
 | Contact Us Page | About Us Page |
 |------------------|---------------|
-| ![Contact Us](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/contact_us.jpg) | ![About Us](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/about_us.jpg) |
+| ![Contact Us](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/contactus.jpg) | ![About Us](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/aboutus.jpg) |
 
 ---
 
