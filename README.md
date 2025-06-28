@@ -35,20 +35,15 @@
 
 | SignUp Page | Login Page | Home Page | Book Details Page |
 |-------------|------------|-----------|--------------------|
-| ![SignUp](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/signup.jpg) | ![Login](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/login.png) | ![Home](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/home.png) | ![Book Details](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/book_details.png) |
+| ![SignUp](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/signup.jpg) | ![Login](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/login.jpg) | ![Home](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/home.jpg) | ![Book Details](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/book_details.jpg) |
 
 | Category Page | BookMark Page | Profile Page | Privacy Policy Page |
 |---------------|---------------|--------------|----------------------|
-| ![Category](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/category.png) | ![BookMark](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/bookmark.png) | ![Profile](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/profile.png) | ![Privacy Policy](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/privacy_policy.png) |
+| ![Category](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/category.jpg) | ![BookMark](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/bookmark.jpg) | ![Profile](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/profile.jpg) | ![Privacy Policy](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/privacy_policy.jpg) |
 
 | Contact Us Page | About Us Page |
 |------------------|---------------|
-| ![Contact Us](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/contact_us.png) | ![About Us](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/about_us.png) |
+| ![Contact Us](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/contact_us.jpg) | ![About Us](https://raw.githubusercontent.com/AyushSantoki1406/BookWave/main/screenshot/about_us.jpg) |
 
 ---
 
-## 📦 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AyushSantoki1406/BookWave.git
